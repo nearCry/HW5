@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/sA_PickupSet_1/Materials/Textures/Noise01.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/sA_PickupSet_1/Materials/Textures/Noise02.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/sA_PickupSet_1/Materials/Textures/Noise04.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/sA_PickupSet_1/Materials/Textures/Noise06.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/sA_PickupSet_1/Materials/Textures/Noise07.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/sA_PickupSet_1/Materials/Textures/Noise08.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/sA_PickupSet_1/Materials/Textures/Noise09.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/sA_PickupSet_1/Materials/Textures/Noise11.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/sA_PickupSet_1/Materials/Textures/Noise12.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/sA_PickupSet_1/Materials/Textures/T_Beam_01.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/sA_PickupSet_1/Materials/Textures/T_NoiseCloud_1.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/sA_PickupSet_1/Materials/Textures/T_NoiseCloud_2.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/sA_PickupSet_1/Materials/Textures/T_NoiseFurry.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/CV/0M683WPRSQVAKYMVKEDXAU.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/I0/XD63D14IVI8PSX24TLWD8H.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/OB/O2PJOKJ2XDF8SB8DMJ0KAB.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/PR/Q27G55NRWSWIB48PSVRT0I.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/8G/IN5HRIDCQMJC366L35X3LA.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/2D/LOZL4JCVIV11OJE0WP6I3R.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/UP/FAEO8H9Z3AYVBCDTMPCOG4.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/T5/XKHRFX6QJIL352XP5HMDMU.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/QB/MREJFRDEX6Q3X2NZ9NY8MP.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/C3/9O8PS1RKMLCLZ5YFTF84VA.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/EY/WLVGJ7MJZ3L4EHCE240VZ4.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/DG/PUT7V3WQ4BJPVHXK1XK7KV.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/PU/5ORATO492BDCJ5VTY7FNGA.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/sA_PickupSet_1/Materials/Textures/Noise07_Mat.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/sA_PickupSet_1/Materials/Textures/T_NoiseFurry_Mat.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/sA_PickupSet_1/Fx/NiagaraSystems/NS_Healing_3.uasset",
+				"D:/Epic Games/Unreal/TestGame/TestGame/Content/ThirdPerson/Blueprints/FollowerSphere.uasset"
+			]
+		}
+	]
+}
